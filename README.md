@@ -1,23 +1,5 @@
 \# 💸 Expense Tracker — REST API Backend
 
-
-
-<div align="center">
-
-
-
-!\[Django](https://img.shields.io/badge/Django-4.2-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-
-!\[DRF](https://img.shields.io/badge/DRF-3.14-ff1709?style=for-the-badge\&logo=django\&logoColor=white)
-
-!\[PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-
-!\[JWT](https://img.shields.io/badge/JWT-SimpleJWT-000000?style=for-the-badge\&logo=JSON%20web%20tokens)
-
-!\[Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-
-
-
 \*\*A production-ready REST API backend for personal finance management.\*\*  
 
 Built with Django REST Framework, PostgreSQL, and JWT authentication.
